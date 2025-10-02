@@ -1,6 +1,6 @@
 # RealMat: Realistic Materials with Diffusion and Reinforcement Learning
 
-### [Paper](https://arxiv.org/pdf/2509.01134) | [Project Page](https://pedrovfigueiredo.github.io/)
+### [Paper](https://arxiv.org/pdf/2509.01134) | [Project Page](https://pedrovfigueiredo.github.io/projects/realmat/index.html)
 
 This is the official implementation of the paper "RealMat: Realistic Materials with Diffusion and Reinforcement Learning"
 
